@@ -3,7 +3,7 @@
 ## Description
 Application has two buttons +. - which increase and descrease the counter respectively.
 
-## Things learned`
+## Things learned
 1. Use of useState.
 2. CSS and animation
 
